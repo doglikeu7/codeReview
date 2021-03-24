@@ -1,0 +1,22 @@
+import java.util.*;
+
+/** @pdOid 9ecfd58e-3e2c-4b23-9dd7-ab6a32507006 */
+public class Multition {
+
+   private Multion[] array;
+
+   private void multion() {
+      // TODO: implement
+   }
+
+   public Multion getInstance() {
+      // TODO: implement
+      return null;
+   }
+
+   public int random() {
+      // TODO: implement
+      return 0;
+   }
+
+}
